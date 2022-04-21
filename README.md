@@ -13,4 +13,7 @@ UPD на 15.04:
 UPD на 19.04:
 Сделала себе план работы по линейным моделям и по LOSS и RISGE регрессии. Параллельно буду писать главу в отчет про обработку данных и про линейные модели. Процесс выполнения буду картинкой ниже актуализировать раз в день.
 
-<img width="740" alt="image" src="https://user-images.githubusercontent.com/79585229/164056797-979e0ee0-4650-4289-896e-efd1fa4de1a0.png">
+UPD на 21.04:
+
+<img width="761" alt="image" src="https://user-images.githubusercontent.com/79585229/164437714-c7efc555-0785-4657-a020-80e5ec062fb3.png">
+
